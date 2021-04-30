@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KadishmanXML": {
+      "commandName": "Project",
+      "commandLineArgs": "./sitemap.xml"
+    }
+  }
+}
